@@ -1,0 +1,1 @@
+Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab is under [MIT License](https://spdx.org/licenses/MIT.html) license.

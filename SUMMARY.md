@@ -1,0 +1,7 @@
+**Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab** is a dataset for object detection tasks. It is used in the energy industry.
+
+The dataset consists of 488 images with 476 labeled objects belonging to 1 single class (*wind turbine*).
+
+Each image in the Wind Turbines 9 dataset has bounding box annotations. There are 16 (3% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *test* (80 images), *valid* (16 images), and *train* (392 images). The dataset was released in 2019.
+
+<img src="https://github.com/dataset-ninja/wind-turbine-object-detection-using-TensorFlow/raw/main/visualizations/poster.png">
