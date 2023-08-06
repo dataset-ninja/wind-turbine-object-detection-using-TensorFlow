@@ -1,0 +1,5 @@
+The author of the **Wind Turbine Object Detection from Aerial Imagery** dataset have compiled a repository containing aerial images captured over west-central Iowa to detect wind turbines. The dataset is divided into two splits: Training and Validation.
+
+The training involved labeled 300 x 300 pixel images obtained by cropping the original 5978 x 7648 pixel aerial images from the [National Agriculture Imagery Program (NAIP)](https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/) database. The wind turbines present in these images were labeled using [LabelImg](https://github.com/tzutalin/labelImg). The training set comprised 392 images, while 80 images were used for testing. It encompassed wind turbines of diverse capacity, manufacturer, and design.
+
+For validation, a separate set of 16 unlabeled images was reserved. The validation results can vary between training runs due to random data and image augmentation during training. However, using the default training parameters, at least 15 of the 17 wind turbines in the validation image set were detected with high probability.
