@@ -1,4 +1,4 @@
-**Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab** is a dataset for object detection tasks. Possible applications of the dataset could be in the energy industry. 
+**Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab** is a dataset for an object detection task. Possible applications of the dataset could be in the energy industry. 
 
 The dataset consists of 488 images with 476 labeled objects belonging to 1 single class (*wind turbine*).
 
