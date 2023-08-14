@@ -1,6 +1,6 @@
 Dataset **Wind Turbine Detection (by Luke Borkowski)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/F/x/H3/gh3LhNG7E4kFgBDGeDXWnkR0lao32XDBSwE8gx77W6E5qBeTAL7kD8IQz3gIa7MEzCJsSMUKnY9PR2O47itqesoaeWTaiIL2giBlbVMe7wF7sOn81EFjlcXiGljo.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/3/0/R3/4r2O0IuNJatMxQtUXEXOrDUs1nOVS85HtTgEVWgAe0plzF4Gry5cejo1LuG4w41rFNR6INB4rQ2AFUln0FfHadUjqSymcwyGyyPRgxSA8bkdD8L6fXoHJrc3DMcY.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
@@ -15,4 +15,4 @@ dtools.download(dataset='Wind Turbine Detection (by Luke Borkowski)', dst_dir='~
 ```
 Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
 
-The data in original format can be [downloaded here](https://github.com/lbborkowski/wind-turbine-detector/archive/refs/heads/master.zip)
+The data in original format can be [downloaded here](https://github.com/lbborkowski/wind-turbine-detector/archive/refs/heads/master.zip).
