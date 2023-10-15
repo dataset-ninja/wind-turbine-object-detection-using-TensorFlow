@@ -1,6 +1,6 @@
 Dataset **Wind Turbine Detection (by Luke Borkowski)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/e/9/8P/YJblquxzo7pO8K7fSt26dZlXdtJcXNrLJLL7vKYpN5GMuMkOUlAbPfKQpvi5akOVHjQtjHmXmSxm7yXnLEpBAbBFC9Rcnkgf2VZ6vM4DTfYzxiI8EIe4y9zgIA7I.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/h/F/LK/IvXWClNo6F4rFLXd7XdHNceciSNdoyX7KhzsdpENEU6pwa62q7EquktG372SbdLHKGV9SQR3BP6fMi1f1Xda4KIbL7U9weYbvEpp1fFttuKS87xOzgRfOM32g6gl.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
