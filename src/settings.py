@@ -103,7 +103,7 @@ def get_settings():
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
     settings["authors_contacts"] = AUTHORS_CONTACTS
-z    settings["organization_name"] = ORGANIZATION_NAME
+    settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
     settings["tags"] = TAGS
